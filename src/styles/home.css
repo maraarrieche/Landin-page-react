@@ -1,0 +1,32 @@
+.card{
+    display:inline-flex;
+    align-items: center;
+    margin-left: 55px;
+    margin-bottom: 20px;
+}
+
+.card-title{
+    text-align: center;
+    color:white;
+    font-weight:bold;
+}
+
+.card-text{
+    text-align: center;
+    color:white;
+}
+
+#boton{
+    background-color: violet;
+    color: white;
+}
+
+#jumbo{
+    background-color: violet;
+    opacity: 50%;
+}
+
+.card-body{
+    background-color: rgb(244, 208, 236);
+}
+
